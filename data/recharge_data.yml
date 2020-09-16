@@ -1,0 +1,6 @@
+#收银台页面定位参数
+点击收银台: "xpath==//*[text()='收银台']"
+新增: "xpath==//*[@class = 'el-icon-plus']"
+充值方式: "xpath==//*[@placeholder='请输入充值方式']"
+确定: "xpath==//*[text()='确 定']"
+取消: "xpath==//*[text()='取 消']"

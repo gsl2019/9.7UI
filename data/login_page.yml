@@ -1,0 +1,3 @@
+#login_page 登录页面定位元素
+login_data:
+   login: '//*[@qqq]'
